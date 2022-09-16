@@ -21,6 +21,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'net-smtp', require: false
 gem 'net-imap'
 gem 'net-pop'
+gem 'bootstrap'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'

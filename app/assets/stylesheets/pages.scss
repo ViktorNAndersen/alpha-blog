@@ -1,3 +1,18 @@
 // Place all the styles related to the pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+@import 'bootstrap/dist/css/bootstrap';
+
+#home-container{
+  margin-top: 25px;
+}
+
+#welcome{
+  background-image: asset-url('homebackground.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
